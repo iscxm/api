@@ -35,8 +35,8 @@ sudo apt install -y nodejs
 ### Step 3: Clone Repository
 Download the code from your GitHub to the VPS:
 ```bash
-git clone <YOUR_GITHUB_REPO_URL> api-folder
-cd api-folder
+git clone https://github.com/iscxm/api
+cd api
 ```
 
 ### Step 4: Install Packages & Start API
